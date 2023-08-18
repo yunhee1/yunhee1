@@ -1,7 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&animation=fadeIn&text=YUNHEE's%20GITHUB&fontAlignY=50)
 
-
 <p align='center'>### WELCOME 👋 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunhee1&show_icons=true&theme=radical)
