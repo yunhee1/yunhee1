@@ -1,5 +1,5 @@
 ### WELCOME 👋
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=WELCOME)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=YUNHEE's GITHUB)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunhee1&show_icons=true&theme=radical)
 
