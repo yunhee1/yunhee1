@@ -1,6 +1,9 @@
 
-
+<div align=center>
+  
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&animation=fadeIn&text=YUNHEE's%20GITHUB&fontAlignY=50)
+
+</div>
 
 <p align='center'> WELCOME 👋 </p>
 <div align=center>
