@@ -6,6 +6,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunhee1&show_icons=true&theme=radical)
 
+[Notion](https://www.notion.so/Hwang-UNI-94a43a7f302c4a418f5dbb9706d2ad5e)
+
 <!--
 **yunhee1/yunhee1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
