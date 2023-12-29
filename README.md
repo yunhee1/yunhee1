@@ -3,9 +3,10 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&animation=fadeIn&text=YUNHEE's%20GITHUB&fontAlignY=50)
 
 <p align='center'> WELCOME 👋 </p>
-
+<div align=center>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunhee1&show_icons=true&theme=radical)
 
+</div>
 <div align=center> 
   
   [Notion Profile](https://www.notion.so/Hwang-UNI-94a43a7f302c4a418f5dbb9706d2ad5e) 
