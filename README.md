@@ -6,11 +6,7 @@
 </div>
 
 <p align='center'> WELCOME 👋 </p>
-<div align=center>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunhee1&show_icons=true&theme=radical)
 
-</div>
 <div align=center> 
   
   [Notion Profile](https://www.notion.so/Hwang-UNI-94a43a7f302c4a418f5dbb9706d2ad5e) 
@@ -23,7 +19,8 @@
 
   </div>
   <div align=center> 
-<table id="stats"><tr>
+<table id="stats"><tr><td valign="top" width="55%">
+  <img src="https://github-readme-stats.vercel.app/api?username=yunhee1&show_icons=true&theme=radical"></td>
   
   <td valign="top" width="45%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunhee1&layout=compact"></td>
