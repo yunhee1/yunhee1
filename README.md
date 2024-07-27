@@ -10,7 +10,7 @@
 
 
   <div align=center> 
-<table id="stats" style="margin: auto;"><tr><td vertical-align="middle" width="64%";>
+<table id="stats" style="margin: auto;"><tr><td style="vertical-align: middle; text-align: center;" width="64%";>
   <img src="https://github-readme-stats.vercel.app/api?username=yunhee1&show_icons=true&theme=radical"></td>
   
   <td valign="center" width="36%" >
