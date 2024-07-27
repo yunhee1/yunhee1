@@ -7,11 +7,7 @@
 
 <p align='center'> WELCOME 👋 </p>
 
-<div align=center> 
-  
-  [Notion Profile](https://www.notion.so/Hwang-UNI-94a43a7f302c4a418f5dbb9706d2ad5e) 
-  
-  </div>
+
 
   <div align=center> 
 <table id="stats"><tr><td valign="top" width="55%">
@@ -27,6 +23,11 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunhee1%2Fhit-counter&count_bg=%23F92455&title_bg=%23555555&icon=googlefit.svg&icon_color=%23F52854&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
 
+  </div>
+  <div align=center> 
+  
+  [Notion Profile](https://www.notion.so/Hwang-UNI-94a43a7f302c4a418f5dbb9706d2ad5e) 
+  
   </div>
 <!--
 **yunhee1/yunhee1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
