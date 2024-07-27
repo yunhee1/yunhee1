@@ -10,10 +10,10 @@
 
 
   <div align=center> 
-<table id="stats"><tr><td valign="top" width="62%">
+<table id="stats"><tr><td valign="top" width="64%">
   <img src="https://github-readme-stats.vercel.app/api?username=yunhee1&show_icons=true&theme=radical"></td>
   
-  <td valign="top" width="38%">
+  <td valign="center" width="36%" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunhee1&layout=compact"></td>
   
   </tr>
