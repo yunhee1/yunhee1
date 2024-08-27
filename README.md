@@ -1,7 +1,7 @@
 
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&animation=fadeIn&text=YUNHEE's%20GITHUB&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&animation=fadeIn&text=UNI's%20GITHUB&fontAlignY=50)
 
 </div>
 
