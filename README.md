@@ -22,7 +22,7 @@
   </div>
   <div align=center> 
   
-  [Notion Profile](https://uni95.notion.site/Yunhee-Hwang-AI-PO-23f4dc5d4c0c80ac82b7f8136133e543?source=copy_link)) 
+  [Notion Profile](https://uni95.notion.site/Yunhee-Hwang-AI-PO-23f4dc5d4c0c80ac82b7f8136133e543?source=copy_link)
   
   </div>
 <!--
